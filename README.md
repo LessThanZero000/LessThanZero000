@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋, I'm Chaoyang Hu
 
-<!--
-**LessThanZero000/LessThanZero000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌏 About Me
+- 🏢 Currently working at Rakuten
+- 📍 Based in Tokyo, Japan
+- 🎯 Status: Focusing
 
-Here are some ideas to get you started:
+## 🛠️ Projects
+I'm interested in AI and time series analysis projects. Some highlights:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 Contributing to [TimeMixer](https://github.com/kwuking/TimeMixer) - An ICLR 2024 implementation for decomposable multiscale mixing for time series forecasting
+- 🤖 Building [AI Model Fusion Terminal Bootstrap](https://github.com/LessThanZero000/ai-modelfusion-terminal-bootstrap) - A template for building AI terminal applications with ModelFusion and TypeScript
+
+## 🌟 Interests
+- Time Series Analysis
+- AI/ML Applications
+- TypeScript Development
+- Terminal-based Applications
+
+## 📫 Connect
+Feel free to explore my repositories and reach out for collaboration opportunities!
+
+*"Less is more"*
